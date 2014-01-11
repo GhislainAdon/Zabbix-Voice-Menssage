@@ -21,7 +21,7 @@ Credits
 Requirements
 =====================
 
-  . Zabbix Serer
+  . Zabbix Server
   
   . Asterisk Server
   
